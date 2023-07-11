@@ -111,3 +111,19 @@
  font-size: 25px;
  font-weight: 700;
 }
+/*this is logo section*/
+.logo-container{
+  background: rgba(39, 39, 39, 0.05);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 150px;
+
+}
+.logo-title{
+  color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-weight: 600;
+font-size: 17px;
+}
