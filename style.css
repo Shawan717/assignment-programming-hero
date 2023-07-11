@@ -1,0 +1,41 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+/*This is bennar section*/
+.banner-contact{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px 50px 0px 150px;
+  background: rgba(229, 84, 115, 0.10);
+}
+.banner-container{
+  width: 500px;
+}
+.banner-title{
+  width: 700px;
+  color: #272727;
+  font-family: Lato;
+  font-size: 80px;
+  font-weight: 800;
+}
+.banner-text{
+  color: rgba(39, 39, 39, 0.60);
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  width: 634px;
+}
+.banner-image{
+  width: 410px;
+  height: 510px;
+  margin-right: 100px;
+}
+.btn{
+  background-color: #E55473;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 5px;
+  border: 0;
+}
