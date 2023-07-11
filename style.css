@@ -211,13 +211,14 @@ margin-right: 100px;
   align-items: center;
   justify-content: center;
   margin: auto;
+  
 }
 .last-container{
   text-align: center;
+ 
 }
 .last-info{
   text-align: center;
-  margin-top: 150px;
   
 }
 .last-head{
@@ -237,5 +238,29 @@ font-size: 40px;
   width: 500px;
   border-radius: 8px;
   border: 0;
+  margin-top: 30px;
   
+}
+/*the footer section*/
+.footer-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 300px;
+  background-color: #111010;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+
+}
+.footer-title{
+  margin-top: 20px ;
+}
+.footer-contant{
+  color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+margin-top: 10px;
 }
